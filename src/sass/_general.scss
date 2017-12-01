@@ -16,6 +16,10 @@ html {
     margin: 0 auto;
 }
 
+.page-container {
+    flex: 1;
+}
+
 .main {
     flex: 1;
 }
@@ -30,4 +34,12 @@ html {
 .heading {
     font-weight: 200;
     font-size: 30px;
+}
+
+$link-hover-color: $green;
+
+.link {
+    &:hover {
+        color: $link-hover-color;
+    }
 }
