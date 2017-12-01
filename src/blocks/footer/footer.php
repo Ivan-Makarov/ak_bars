@@ -28,12 +28,12 @@
         </div>
     </section>
     <section class="footer__main">
-        <div class="content">
-            <section class="logo footer__logo">
+        <div class="content container-flex">
+            <section class="logo footer__logo footer__section">
                 <a class="link logo__link footer__logo-link" href="/"></a>
             </section>
 
-            <section class="orgs footer__orgs">
+            <section class="orgs footer__orgs footer__section">
                 <article class="orgs__item">
                     <h4 class="orgs__item-heading footer__item-heading minor-heading">Организатор турнира</h4>
                     <a href="" class="link orgs__link orgs__link_org_akbars"></a>
@@ -44,9 +44,9 @@
                 </article>
             </section>
 
-            <section class="sitemap footer__sitemap">
+            <section class="sitemap footer__sitemap footer__section">
                 <h4 class="sitemap__heading footer__item-heading minor-heading">Карта сайта</h4>
-                <ul class="sitemap__list footer__sitemap-list">
+                <ul class="sitemap__list footer__sitemap-list container-flex">
                     <li class="sitemap__list-item footer__sitemap-list-item">
                         <a href="" class="link sitemap__link">О турнире</a>
                     </li>
@@ -71,7 +71,7 @@
                 </ul>
             </section>
 
-            <section class="contacts footer__contacts">
+            <section class="contacts footer__contacts footer__section">
                 <h4 class="contacts__heading footer__item-heading minor-heading">Контактная информация</h4>
                 <ul class="contacts__list footer__contacts-list">
                     <li class="contacts__list-item contacts__list-item_type_post footer__contacts-list-item">

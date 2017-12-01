@@ -1,6 +1,7 @@
 html {
     font-size: $base_font_size;
     font-family: $base_font_family;
+    font-weight: $base_font_weight;
 }
 
 .body {
@@ -24,4 +25,9 @@ html {
     &_col {
         flex-direction: column;
     }
+}
+
+.heading {
+    font-weight: 200;
+    font-size: 30px;
 }
