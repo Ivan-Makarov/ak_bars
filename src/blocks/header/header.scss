@@ -6,6 +6,7 @@ $header-bg-color: $green;
     background-color: $dark-green;
     &__reach {
         justify-content: space-between;
+        margin-bottom: 14px;
     }
     &__contacts-list-item {
         font-size: 11px;
@@ -21,6 +22,13 @@ $header-bg-color: $green;
     }
     &__main {
         justify-content: space-between;
+        height: 140px;
+    }
+    &__logo {
+        height: 100%;
+    }
+    &__logo-link {
+        height: 100%;
     }
     &__heading {
         align-self: flex-end;
@@ -36,7 +44,7 @@ $main-heading-color: white;
     font-size: 30px;
     font-weight: 500;
     padding-top: 50px;
-    padding-bottom: 50px;
+    // padding-bottom: 50px;
     color: $main-heading-color;
 }
 
@@ -46,5 +54,14 @@ $main-heading-color: white;
         font-size: 15px;
         font-weight: 600;
         margin-left: 60px;
+    }
+}
+
+.logo {
+    &__img {
+        height: 100%;
+    }
+    &__link {
+        display: block;
     }
 }

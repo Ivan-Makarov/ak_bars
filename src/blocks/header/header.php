@@ -30,29 +30,31 @@
         </div>
         <div class="container-flex header__main">
             <section class="logo header__logo">
-                <a class="link logo__link header__logo-link" href="/"></a>
+                <a href="/" class="link logo__link header__logo-link">
+                    <img class="logo__img header__logo-img" src="/img/logo.png" alt="Логотип турнира">
+                </a>
             </section>
-            <div class="container-flex container-flex_col">
+            <div class="container-flex container-flex_col container-flex_sb">
                 <h1 class="main-heading header__heading">Кубок Академии хоккея Ак Барс 2017</h1>
                 <nav class="nav main-nav header__nav">
                     <ul class="nav__list header__nav-list">
                         <li class="nav__list-item header__nav-list-item">
-                            <a href="" class="link nav__list-item-link header__nav-list-item-link">
+                            <a href="/about/" class="link nav__list-item-link header__nav-list-item-link">
                                 О турнире
                             </a>
                         </li>
                         <li class="nav__list-item header__nav-list-item">
-                            <a href="" class="link nav__list-item-link header__nav-list-item-link">
+                            <a href="/news/" class="link nav__list-item-link header__nav-list-item-link">
                                 Новости
                             </a>
                         </li>
                         <li class="nav__list-item header__nav-list-item">
-                            <a href="" class="link nav__list-item-link header__nav-list-item-link">
+                            <a href="/matches/" class="link nav__list-item-link header__nav-list-item-link">
                                 Игры
                             </a>
                         </li>
                         <li class="nav__list-item header__nav-list-item">
-                            <a href="" class="link nav__list-item-link header__nav-list-item-link">
+                            <a href="/teams/" class="link nav__list-item-link header__nav-list-item-link">
                                 Команды
                             </a>
                         </li>

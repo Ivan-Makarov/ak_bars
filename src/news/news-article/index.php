@@ -11,7 +11,7 @@
     ?>
     <div class="content">
         <h2 class="heading page-heading">
-            О турнире
+            Новости
         </h2>
     </div>
     <div class="content container-flex">
