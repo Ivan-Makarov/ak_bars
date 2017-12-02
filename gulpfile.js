@@ -115,7 +115,10 @@ gulp.task('deploy', function() {
         './dist/**'
     ];
 
-    return gulp.src( globs, { base: './dist', buffer: false } )
-        .pipe(conn.newer('/www/akbars.zolotarev-studio.ru/' ))
-        .pipe(conn.dest('/www/akbars.zolotarev-studio.ru/' ));
+    return gulp.src(globs, {
+            base: './dist',
+            buffer: false
+        })
+        .pipe(conn.newer('/www/akbars.zolotarev-studio.ru/'))
+        .pipe(conn.dest('/www/akbars.zolotarev-studio.ru/'));
 });

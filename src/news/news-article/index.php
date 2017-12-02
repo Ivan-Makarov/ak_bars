@@ -2,7 +2,7 @@
 <html lang="ru">
 
 <?php
-    require($_SERVER['DOCUMENT_ROOT'].'/blocks/head.html');
+    require($_SERVER['DOCUMENT_ROOT'].'/blocks/head.php');
 ?>
 
 <body class="body">
@@ -19,6 +19,7 @@
 
         </main>
         <?php
+            $aside_content = array('tournament');
             require($_SERVER['DOCUMENT_ROOT'].'/blocks/aside/aside.php');
         ?>
     </div>

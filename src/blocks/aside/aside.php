@@ -1,7 +1,15 @@
 <aside class="aside">
     <?php
-        require($_SERVER['DOCUMENT_ROOT'].'/blocks/tournament/tournament.php');
         $sn_modifier = 'aside__social-networks';
-        require($_SERVER['DOCUMENT_ROOT'].'/blocks/social-networks/social-networks.php');
+
+        if (!$aside_content) {
+            require($blocks['tournament']);
+            require($blocks['social-networks']);
+        } else {
+            if (in_array('tournament', $aside_content))
+                require($blocks['tournament']);
+            if (in_array('social-networks', $aside_content))
+                require($blocks['social-networks']);
+        }
     ?>
 </aside>

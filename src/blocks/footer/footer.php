@@ -48,16 +48,16 @@
                 <h4 class="sitemap__heading footer__item-heading minor-heading">Карта сайта</h4>
                 <ul class="sitemap__list footer__sitemap-list container-flex">
                     <li class="sitemap__list-item footer__sitemap-list-item">
-                        <a href="" class="link sitemap__link">О турнире</a>
+                        <a href="/about/" class="link sitemap__link">О турнире</a>
                     </li>
                     <li class="sitemap__list-item footer__sitemap-list-item">
-                        <a href="" class="link sitemap__link">Новости</a>
+                        <a href="/news/" class="link sitemap__link">Новости</a>
                     </li>
                     <li class="sitemap__list-item footer__sitemap-list-item">
-                        <a href="" class="link sitemap__link">Игры</a>
+                        <a href="/matches/" class="link sitemap__link">Игры</a>
                     </li>
                     <li class="sitemap__list-item footer__sitemap-list-item">
-                        <a href="" class="link sitemap__link">Команды</a>
+                        <a href="/teams/" class="link sitemap__link">Команды</a>
                     </li>
                     <li class="sitemap__list-item footer__sitemap-list-item">
                         <a href="" class="link sitemap__link">Фотогалерея</a>
