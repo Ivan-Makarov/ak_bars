@@ -3,6 +3,7 @@
 
 <?php
     require($_SERVER['DOCUMENT_ROOT'].'/blocks/head.html');
+    $modifier = 'index';
 ?>
 
 <body class="body">
@@ -10,11 +11,10 @@
         require($_SERVER['DOCUMENT_ROOT'].'/blocks/header/header.php');
     ?>
     <main class="main">
-        <div class="all-width">
+        <div class="all-width-stripe all-width-stripe_<?= $modifier ?>">
             <div class="content container-flex">
                 <section class="top-stats"></section>
                 <?php
-                    $modifier = 'tournament_index';
                     require($_SERVER['DOCUMENT_ROOT'].'/blocks/tournament/tournament.php');
                 ?>
             </div>

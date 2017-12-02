@@ -14,16 +14,16 @@
                     </li>
                 </ul>
             </section>
-            <section class="social header__social">
-                <ul class="social__list header__social-list">
-                    <li class="social__list-item header__social-list-item">
-                        <a href="link social__link header__social-link social__link_to_instagram"></a>
+            <section class="social-links header__social">
+                <ul class="social-links__list header__social-list container-flex">
+                    <li class="social-links__list-item header__social-list-item">
+                        <a href="" class="link social-links__link social-links__link_to_instagram header__social-link"></a>
                     </li>
-                    <li class="social__list-item header__social-list-item">
-                        <a href="link social__link social__link_to_facebook header__social-link"></a>
+                    <li class="social-links__list-item header__social-list-item">
+                        <a href="" class="link social-links__link social-links__link_to_instagram header__social-link"></a>
                     </li>
-                    <li class="social__list-item header__social-list-item">
-                        <a href="link social__link social__link_to_vk header__social-link"></a>
+                    <li class="social-links__list-item header__social-list-item">
+                        <a href="" class="link social-links__link social-links__link_to_instagram header__social-link"></a>
                     </li>
                 </ul>
             </section>

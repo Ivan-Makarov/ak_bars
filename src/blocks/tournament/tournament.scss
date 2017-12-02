@@ -1,0 +1,57 @@
+$loser_places: 2;
+$tournament_bg_color: $off-white;
+$tournament_index_color: white;
+$tournament_index_bg_color: $dark-red;
+
+.tournament {
+    &__heading {
+        margin-bottom: 15px;
+    }
+    &__table {
+        padding: 7px 5px 17px 7px;
+        counter-reset: place;
+        background-color: $tournament_bg_color;
+        &_index {
+            background-color: inherit;
+        }
+    }
+    &__table-head-item {
+        text-align: left;
+    }
+    &__table-row {
+        counter-increment: place;
+        &::before {
+            content: counter(place);
+            display: table-cell;
+            vertical-align: middle;
+            padding: 5px 7px;
+            font-size: 11px;
+        }
+        &:nth-last-child(#{$loser_places}) {
+            border-top-width: 2px;
+            border-top-style: solid;
+            border-top-color: $dark-green;
+        }
+        &_index {
+            &:nth-last-child(#{$loser_places}) {
+                border-top-color: $tournament_index_color;
+            }
+        }
+    }
+    &_index {
+        width: 380px;
+        padding: 40px 0 45px 20px;
+        color: $tournament_index_color;
+        background-color: $tournament_index_bg_color;
+        position: relative;
+        &::after {
+            position: absolute;
+            top: 0;
+            left: 100%;
+            height: 100%;
+            content: '';
+            background-color: $tournament_index_bg_color;
+            width: 10000px;
+        }
+    }
+}

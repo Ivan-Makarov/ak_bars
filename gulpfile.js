@@ -80,6 +80,8 @@ gulp.task('img', () => {
 gulp.task('sync', () => {
     browsersync.init({
         proxy: 'akbars',
+        open: false,
+        // browser: ['chrome', 'firefox'],
         notify: false
     })
 });
@@ -98,15 +100,15 @@ gulp.task('watch', () => {
                 ]).on('change', browsersync.reload);
 });
 
-gulp.task('default', ['sync', 'watch']);
+gulp.task('default', ['build', 'sync', 'watch']);
 
-gulp.task( 'deploy', function () {
-    const conn = ftp.create( {
-        host:     ftpconfig.config.host,
-        user:     ftpconfig.config.user,
+gulp.task('deploy', function() {
+    const conn = ftp.create({
+        host: ftpconfig.config.host,
+        user: ftpconfig.config.user,
         password: ftpconfig.config.password,
         parallel: 3,
-        log:      gutil.log
+        log: gutil.log
     } );
 
     const globs = [
@@ -114,6 +116,6 @@ gulp.task( 'deploy', function () {
     ];
 
     return gulp.src( globs, { base: './dist', buffer: false } )
-        .pipe(conn.newer('/public_html' ))
-        .pipe(conn.dest('/public_html' ));
+        .pipe(conn.newer('/www/akbars.zolotarev-studio.ru/' ))
+        .pipe(conn.dest('/www/akbars.zolotarev-studio.ru/' ));
 });
