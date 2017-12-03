@@ -6,7 +6,3 @@
     <link rel="stylesheet" href="/css/main.min.css">
     <script src="/js/main.min.js" defer></script>
 </head>
-
-<?php
-    require($_SERVER['DOCUMENT_ROOT'].'/blocks/blocks.php')
-?>

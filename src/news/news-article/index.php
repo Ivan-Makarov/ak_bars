@@ -2,12 +2,13 @@
 <html lang="ru">
 
 <?php
-    require($_SERVER['DOCUMENT_ROOT'].'/blocks/head.php');
+    require $_SERVER['DOCUMENT_ROOT'].'/blocks/blocks.php';
+    require $blocks['head'];
 ?>
 
 <body class="body">
     <?php
-        require($_SERVER['DOCUMENT_ROOT'].'/blocks/header/header.php');
+        require $blocks['header'];
     ?>
     <div class="content">
         <h2 class="heading page-heading">
@@ -20,11 +21,11 @@
         </main>
         <?php
             $aside_content = array('tournament');
-            require($_SERVER['DOCUMENT_ROOT'].'/blocks/aside/aside.php');
+            require $blocks['aside'];
         ?>
     </div>
     <?php
-        require($_SERVER['DOCUMENT_ROOT'].'/blocks/footer/footer.php');
+        require($blocks['footer']);
     ?>
 </body>
 </html>
