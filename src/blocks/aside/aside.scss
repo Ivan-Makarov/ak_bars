@@ -1,5 +1,6 @@
 .aside {
-    width: 360px;
+    width: $info-card-width;
+    margin-left: $grid-gutter;
     &__social-networks {
         margin-top: 48px;
     }

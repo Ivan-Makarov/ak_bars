@@ -1,9 +1,17 @@
 $base_font_size: 14px;
 $base_font_weight: 300;
 $base_font_family: 'UniviaPro', Arial, Helvetica, sans-serif;
-$content_width: 1200px;
+
+$content-width: 1160px;
+$grid-gutter: 40px;
 
 $green: #009661;
-$dark-red: #b32d2f;
 $dark-green: #22342f;
+$dark-red: #b32d2f;
 $off-white: #f2f2f2;
+$dark-gray: #9f9d9f;
+
+$info-cards-in-row: 3;
+$info-card-width: ($content-width - $grid-gutter * ($info-cards-in-row - 1)) / $info-cards-in-row;
+
+$lead-image-width: $info-card-width * 2 + $grid-gutter;

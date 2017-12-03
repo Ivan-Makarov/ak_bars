@@ -1,0 +1,14 @@
+$info-card-bg-color: $off-white;
+$info-card-border-color: $green;
+$info-card-border-color-finished: $dark-gray;
+
+.info-card {
+    background-color: $info-card-bg-color;
+    border-bottom: 5px solid $info-card-border-color;
+    height: 130px;
+    width: $info-card-width;
+    box-sizing: content-box;
+    &_finished {
+        border-bottom-color: $info-card-border-color-finished;
+    }
+}

@@ -8,13 +8,13 @@ html {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    min-width: $content_width;
+    min-width: $content-width;
 }
 
 .content {
     flex: 1;
-    min-width: $content_width;;
-    width: $content_width;
+    min-width: $content-width;;
+    width: $content-width;
     margin: 0 auto;
 }
 
@@ -24,6 +24,9 @@ html {
 
 .main {
     flex: 1;
+    &__heading {
+        margin-bottom: 34px;
+    }
 }
 
 .container-flex {
@@ -31,9 +34,22 @@ html {
     &_col {
         flex-direction: column;
     }
+    &_grid {
+        margin-left: -$grid-gutter;
+        margin-top: -$grid-gutter;
+        flex-wrap: wrap;
+    }
     &_sb {
         justify-content: space-between;
     }
+    &__grid-item {
+        padding-left: $grid-gutter;
+        padding-top: $grid-gutter;
+    }
+}
+
+.page-heading {
+    padding: 31px 0 32px;
 }
 
 .heading {
@@ -41,8 +57,12 @@ html {
     font-size: 30px;
 }
 
-.page-heading {
-    padding: 31px 0 32px;
+.article {
+    margin-bottom: $grid-gutter;
+    &_text {
+        padding-bottom: 15px;
+        border-bottom: 1px dashed $dark-gray;
+    }
 }
 
 $link-hover-color: $green;
@@ -50,5 +70,17 @@ $link-hover-color: $green;
 .link {
     &:hover {
         color: $link-hover-color;
+    }
+}
+
+.lead-image {
+    width: $lead-image-width;
+    height: 450px;
+    overflow: hidden;
+    justify-content: space-around;
+    align-items: center;
+    &__img {
+        height: 100%;
+        width: auto;
     }
 }

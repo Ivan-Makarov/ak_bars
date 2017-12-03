@@ -1,0 +1,25 @@
+$text-color: #4a4a4a;
+
+.paragraph {
+    color: $text-color;
+    line-height: 20px;
+    font-weight: 300;
+    margin-bottom: 1em;
+}
+
+.standout-text {
+    background-color: $off-white;
+    color: $text-color;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 18px;
+    padding: 19px 53px 28px 35px;
+    &__paragraph {
+        &:not(:last-child) {
+            margin-bottom: 1em;
+        }
+    }
+}

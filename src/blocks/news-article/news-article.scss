@@ -1,0 +1,25 @@
+.news-article {
+    &__heading {
+        margin-top: 27px;
+        margin-bottom: 32px;
+    }
+    &__date {
+        display: inline-block;
+        background-color: $off-white;
+        color: $dark-gray;
+        justify-content: space-around;
+        align-items: center;
+        height: 80px;
+        padding: 6px 20px 14px;
+        font-weight: 600;
+        margin-right: 20px;
+    }
+    &__day {
+        display: block;
+        font-size: 40px;
+    }
+    &__month {
+        display: block;
+        font-size: 12px;
+    }
+}
