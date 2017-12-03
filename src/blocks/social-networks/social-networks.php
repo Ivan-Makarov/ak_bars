@@ -1,5 +1,5 @@
 <section class="social-networks <?= $sn_modifier ?>">
-    <h2 class="heading social-networks__heading">
+    <h2 class="heading social-networks__heading section-heading">
         Мы в социальных сетях
     </h2>
     <section class="social-links social-networks__links">
