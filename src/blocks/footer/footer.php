@@ -1,6 +1,6 @@
 <footer class="footer">
     <section class="partners footer__partners">
-        <div class="stripe">
+        <div class="all-width-stripe_footer">
             <div class="content">
                 <h3 class="partners__heading footer__partners-heading heading">
                     Организаторы и партнеры

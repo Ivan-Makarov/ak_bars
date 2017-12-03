@@ -94,3 +94,22 @@ $link-hover-color: $green;
         flex: 1;
     }
 }
+
+.button {
+    background-color: $green;
+    color: white;
+    padding: 12px 17px 15px 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+    b {
+        font-size: 20px;
+    }
+    &:hover {
+        cursor: pointer;
+        background-color: $dark-green;
+    }
+}
+
+.news {
+    padding-bottom: 180px;
+}

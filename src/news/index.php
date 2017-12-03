@@ -16,7 +16,7 @@
         </h2>
     </div>
     <div class="content container-flex">
-        <main class="main">
+        <main class="main news">
             <ul class="news-list container-flex container-flex_grid article">
                 <li class="news-list__item container-flex__grid-item">
                     <article class="news-preview">
@@ -155,6 +155,9 @@
                     </article>
                 </li>
             </ul>
+            <button class="button">
+                Больше новостей <b>&raquo;</b>
+            </button>
         </main>
         <?php
             require $blocks['aside'];

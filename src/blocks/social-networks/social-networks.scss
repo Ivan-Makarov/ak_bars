@@ -65,7 +65,22 @@ $vk_icon: '';
         height: $inst_item_size;
         background-repeat: no-repeat;
         background-position: center;
-        background-size: contain;
+        background-size: cover;
         background-color: $dark-green;
+        position: relative;
+        &::after {
+            display: block;
+            content: '';
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.1);
+        }
+        &:hover {
+            &::after {
+                background-color: transparent;
+            }
+        }
     }
 }

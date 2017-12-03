@@ -3,6 +3,11 @@ $footer-main-text-color: $off-white;
 $footer-item-heading-text-color: $green;
 
 .footer {
+    &__partners-heading {
+        color: white;
+        padding-top: 15px;
+        padding-bottom: 16px;
+    }
     &__partners-list {
         padding: 54px 0 113px;
     }

@@ -18,6 +18,9 @@
     <section class="instagram social-networks__instagram container-flex container-flex_col">
         <a href="instagram.com/acbars.academy" class="link instagram__link social-networks__instagram-link">instagram.com/acbars.academy</a>
         <ul class="instagram__gallery social-networks__instagram-gallery container-flex">
+
+            <?php $imageSrc = '/img/slider-1.jpg'?>
+
             <li class="instagram__list-item social-networks__instagram-list-item">
                 <a href="" class="link instagram__item social-networks__instagram-item" style="background-image: url(<?= $imageSrc ?>)"></a>
             </li>
