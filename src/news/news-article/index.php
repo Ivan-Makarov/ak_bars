@@ -59,7 +59,7 @@
             </article>
         </main>
         <?php
-            $aside_content = array('tournament');
+            $aside_content = array('tournament', 'latest-news');
             require $blocks['aside'];
         ?>
     </div>

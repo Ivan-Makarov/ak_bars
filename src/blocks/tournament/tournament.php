@@ -1,5 +1,5 @@
 <section class="tournament tournament_<?= $modifier ?>">
-    <h2 class="heading tournament__heading">
+    <h2 class="heading tournament__heading section-heading">
         Турнирная таблица
     </h2>
     <table class="table tournament__table tournament__table_<?= $modifier ?>">

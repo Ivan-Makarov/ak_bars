@@ -5,7 +5,7 @@ $tournament_index_bg_color: $dark-red;
 
 .tournament {
     &__heading {
-        margin-bottom: 15px;
+        // margin-bottom: 15px;
     }
     &__table {
         padding: 7px 5px 17px 7px;
@@ -40,7 +40,7 @@ $tournament_index_bg_color: $dark-red;
     }
     &_index {
         width: 380px;
-        padding: 40px 0 45px 20px;
+        padding: 0 0 45px 20px;
         color: $tournament_index_color;
         background-color: $tournament_index_bg_color;
         position: relative;

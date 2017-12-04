@@ -1,0 +1,70 @@
+.stats-item {
+    &__heading {
+        font-size: 12px;
+        font-weight: 600;
+        margin-bottom: 18px;
+        line-height: 25px;
+    }
+    &__leader {
+        padding-bottom: 12px;
+        border-bottom: 2px solid $dark-green;
+    }
+}
+
+.stats-table {
+    width: $info-card-width;
+    &__item {
+        text-align: center;
+        &_name {
+            text-align: left;
+        }
+    }
+}
+
+.player-info {
+    color: $text-gray;
+    &__photo {
+        height: 120px;
+        width: 100px;
+        border: 1px solid  $dark-gray;
+    }
+    &__info {
+        padding: 7px 22px;
+    }
+    &__name {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 18px;
+        color: $green;
+    }
+    &__first-name,
+    &__last-name {
+        display: block;
+    }
+    &__number {
+        font-size: 15px;
+    }
+    &__number-value {
+        font-size: 20px;
+    }
+    &__stats {
+        font-weight: 600;
+        font-size: 20px;
+    }
+    &__team {
+        padding: 16px 14px;
+    }
+}
+
+.team-badge {
+    &__img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 17px;
+    }
+    &__name,
+    &__from {
+        text-align: center;
+        font-size: 9px;
+    }
+}

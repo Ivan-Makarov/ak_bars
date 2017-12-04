@@ -14,8 +14,8 @@
     <main class="main">
         <div class="all-width-stripe all-width-stripe_<?= $modifier ?>">
             <div class="content container-flex">
-                <section class="top-stats"></section>
                 <?php
+                    require $blocks['top-stats'];
                     require $blocks['tournament'];
                 ?>
             </div>

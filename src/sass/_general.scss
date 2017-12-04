@@ -96,6 +96,7 @@ $link-hover-color: $green;
 }
 
 .button {
+    display: inline-block;
     background-color: $green;
     color: white;
     padding: 12px 17px 15px 23px;
