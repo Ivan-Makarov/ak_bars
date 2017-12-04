@@ -15,7 +15,6 @@
         </thead>
         <tbody class="table__body tournament__table-body">
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place1">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">ЦСКА (Россия)</td>
                 <td class="table__item tournament__table-item">10</td>
                 <td class="table__item tournament__table-item">4</td>
@@ -27,7 +26,6 @@
                 <td class="table__item tournament__table-item">14</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place2">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Академия АкБарс (Россия)</td>
                 <td class="table__item tournament__table-item">12</td>
                 <td class="table__item tournament__table-item">13</td>
@@ -39,7 +37,6 @@
                 <td class="table__item tournament__table-item">24</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place3">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Барыс (Казахстан)</td>
                 <td class="table__item tournament__table-item">43</td>
                 <td class="table__item tournament__table-item">24</td>
@@ -51,7 +48,6 @@
                 <td class="table__item tournament__table-item">23</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place4">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Динамо (Беларусь) </td>
                 <td class="table__item tournament__table-item">12</td>
                 <td class="table__item tournament__table-item">34</td>
@@ -63,7 +59,6 @@
                 <td class="table__item tournament__table-item">90</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place5">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Сибирь (Россия)</td>
                 <td class="table__item tournament__table-item">09</td>
                 <td class="table__item tournament__table-item">87</td>
@@ -75,7 +70,6 @@
                 <td class="table__item tournament__table-item">21</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place6">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Нефтехимик (Россия)</td>
                 <td class="table__item tournament__table-item">11</td>
                 <td class="table__item tournament__table-item">22</td>
@@ -87,7 +81,6 @@
                 <td class="table__item tournament__table-item">55</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place7">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Czech Knights (Чехия)</td>
                 <td class="table__item tournament__table-item">31</td>
                 <td class="table__item tournament__table-item">42</td>
@@ -99,7 +92,6 @@
                 <td class="table__item tournament__table-item">00</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place8">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Волна (Россия)</td>
                 <td class="table__item tournament__table-item">1</td>
                 <td class="table__item tournament__table-item">2</td>
@@ -111,7 +103,6 @@
                 <td class="table__item tournament__table-item">5</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place9">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">Сборная Москвы (Россия)</td>
                 <td class="table__item tournament__table-item">9</td>
                 <td class="table__item tournament__table-item">8</td>
@@ -123,7 +114,6 @@
                 <td class="table__item tournament__table-item">5</td>
             </tr>
             <tr class="table__row tournament__table-row tournament__table-row_<?= $modifier ?>" id="tournament_place10">
-                <!-- <td class="table__item tournament__table-item tournament__table-item_place"></td> -->
                 <td class="table__item table__item_highlight tournament__table-item tournament__table-item_highlight _<?= $modifier ?>">HK Pirati (Латвия)</td>
                 <td class="table__item tournament__table-item">11</td>
                 <td class="table__item tournament__table-item">22</td>

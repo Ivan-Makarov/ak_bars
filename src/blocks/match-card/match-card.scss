@@ -1,0 +1,43 @@
+.match-card {
+    justify-content: space-around;
+    padding-top: 22px;
+    &__team {
+
+    }
+    &__team-name {
+        font-size: 12px;
+        font-weight: 600;
+    }
+    &__team-from {
+        font-size: 12px;
+    }
+    &__info {
+        color: $text-gray;
+        align-items: center;
+        text-align: center;
+    }
+    &__number {
+        font-size: 12px;
+        font-weight: 300;
+    }
+    &__time {
+        font-size: 30px;
+        color: $dark-gray;
+        font-weight: 700;
+    }
+    &__time-zone {
+        font-weight: 400;
+        font-size: 11px;
+    }
+    &__score {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 12px;
+    }
+    &__link {
+        display: block;
+        margin-bottom: 6px;
+        font-size: 11px;
+        text-transform: lowercase;
+    }
+}
