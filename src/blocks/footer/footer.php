@@ -8,21 +8,31 @@
             </div>
         </div>
         <div class="content">
-            <ul class="partners__list footer__partners-list">
+            <ul class="partners__list footer__partners-list container-flex">
                 <li class="partners__list-item footer__partners-list-item">
-                    <a href="" class="link partners__link partners__link_partner_tatarstan-hockey-fed footer__partners-link"></a>
+                    <a href="" class="link partners__link partners__link_partner_tatarstan-hockey-fed footer__partners-link">
+                        <img src="/img/tatarstan_hockey_fed.png" alt="">
+                    </a>
                 </li>
                 <li class="partners__list-item footer__partners-list-item">
-                    <a href="" class="link partners__link partners__link_partner_tatneft footer__partners-link"></a>
+                    <a href="" class="link partners__link partners__link_partner_tatneft footer__partners-link">
+                        <img src="/img/tatneft.png" alt="">
+                    </a>
                 </li>
                 <li class="partners__list-item footer__partners-list-item">
-                    <a href="" class="link partners__link partners__link_partner_akbars-academy footer__partners-link"></a>
+                    <a href="" class="link partners__link partners__link_partner_akbars-academy footer__partners-link">
+                        <img src="/img/akbars_academy.png" alt="">
+                    </a>
                 </li>
                 <li class="partners__list-item footer__partners-list-item">
-                    <a href="" class="link partners__link partners__link_partner_zaryad footer__partners-link"></a>
+                    <a href="" class="link partners__link partners__link_partner_zaryad footer__partners-link">
+                        <img src="/img/zaryad.png" alt="">
+                    </a>
                 </li>
                 <li class="partners__list-item footer__partners-list-item">
-                    <a href="" class="link partners__link partners__link_partner_tatarstan footer__partners-link"></a>
+                    <a href="" class="link partners__link partners__link_partner_tatarstan footer__partners-link">
+                        <img src="/img/tatarstan.png" alt="">
+                    </a>
                 </li>
             </ul>
         </div>

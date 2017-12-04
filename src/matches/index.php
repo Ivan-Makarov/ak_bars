@@ -18,7 +18,7 @@
     <div class="content container-flex">
         <main class="main">
             <article class="matchday article">
-                <h3 class="heading main__heading matchday__heading">
+                <h3 class="heading section-heading">
                     Среда, 27 декабря
                 </h3>
                 <ol class="matchday__matches container-flex container-flex_grid">
@@ -51,7 +51,7 @@
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
                         <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
+                            <section class="team-badge match-card__team container-flex container-flex_col">
                                 <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
                                 <p class="team-badge__name match-card__team-name">ЦСКА</p>
                                 <p class="team-badge__from  match-card__team-from">Москва</p>
@@ -160,7 +160,7 @@
                 </ol>
             </article>
             <article class="matchday article">
-                <h3 class="heading main__heading matchday__heading">
+                <h3 class="heading section-heading">
                     Вторник, 26 декабря
                 </h3>
                 <ol class="matchday__matches container-flex container-flex_grid">
@@ -302,7 +302,7 @@
                 </ol>
             </article>
             <article class="matchday article">
-                <h3 class="heading main__heading matchday__heading">
+                <h3 class="heading section-heading">
                     Понедельник, 25 декабря
                 </h3>
                 <ol class="matchday__matches container-flex container-flex_grid">
