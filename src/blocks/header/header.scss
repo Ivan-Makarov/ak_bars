@@ -44,8 +44,32 @@ $main-heading-color: white;
     font-size: 30px;
     font-weight: 500;
     padding-top: 50px;
-    // padding-bottom: 50px;
     color: $main-heading-color;
+}
+
+$pin-icon: '/img/icons/pin.png';
+$phone-icon: '/img/icons/phone.png';
+$mail-icon: '/img/icons/mail.png';
+
+.contacts {
+    &__list-item {
+        background-position: left center;
+        background-repeat: no-repeat;
+        &_type {
+            &_post {
+                background-image: url($pin-icon);
+                background-size: 12px auto;
+            }
+            &_tel {
+                background-image: url($phone-icon);
+                background-size: 15px auto;
+            }
+            &_email {
+                background-image: url($mail-icon);
+                background-size: 15pa auto;
+            }
+        }
+    }
 }
 
 .nav {

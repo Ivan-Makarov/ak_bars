@@ -46,11 +46,15 @@
             <section class="orgs footer__orgs footer__section">
                 <article class="orgs__item">
                     <h4 class="orgs__item-heading footer__item-heading minor-heading">Организатор турнира</h4>
-                    <a href="" class="link orgs__link orgs__link_org_akbars"></a>
+                    <a href="" class="link orgs__link orgs__link_org_akbars">
+                        <img src="/img/akbars_white.png" alt="">
+                    </a>
                 </article>
                 <article class="orgs__item">
                     <h4 class="orgs__item-heading footer__item-heading minor-heading">При поддержке</h4>
-                    <a href="" class="link orgs__link orgs__link_org_tatneft"></a>
+                    <a href="" class="link orgs__link orgs__link_org_tatneft">
+                        <img src="/img/tatneft_gray.png" alt="">
+                    </a>
                 </article>
             </section>
 

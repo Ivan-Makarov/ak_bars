@@ -3,13 +3,16 @@
         <div class="container-flex header__reach">
             <section class="contacts header__contacts container-flex">
                 <ul class="contacts__list header__contacts-list container-flex">
-                    <li class="contacts__list-item contacts__list-item_type_post header__contacts-list-item">
+                    <li class="contacts__list-item contacts__list-item_type_post
+                    header__contacts-list-item header__contacts-list-item_type_post">
                         Россия, Республика Татарстан, г.&nbsp;Казань, ул.&nbsp;Петербургская, д.&nbsp;37
                     </li>
-                    <li class="contacts__list-item contacts__list-item_type_tel header__contacts-list-item">
+                    <li class="contacts__list-item contacts__list-item_type_tel header__contacts-list-item
+                    header__contacts-list-item_type_tel">
                         <a class="link contacts__link" href="tel:+78432218110">+7 843 221-81-10</a>
                     </li>
-                    <li class="contacts__list-item contacts__list-item_type_email header__contacts-list-item">
+                    <li class="contacts__list-item contacts__list-item_type_email header__contacts-list-item
+                    header__contacts-list-item_type_email">
                         <a class="link contacts__link" href="mailto:info@akbars-tournament.ru">info@akbars-tournament.ru</a>
                     </li>
                 </ul>

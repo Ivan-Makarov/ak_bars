@@ -15,6 +15,9 @@ $footer-item-heading-text-color: $green;
     }
     &__partners-link {
         display: block;
+        &:hover {
+            filter: saturate(200%);
+        }
     }
     &__main {
         padding: 46px 0 134px;
@@ -27,7 +30,7 @@ $footer-item-heading-text-color: $green;
     }
     &__item-heading {
         color: $footer-item-heading-text-color;
-        margin-bottom: 19px;
+        margin-bottom: 16px;
     }
     &__section {
         width: 25%;
@@ -46,6 +49,17 @@ $footer-item-heading-text-color: $green;
 
 .stripe {
     padding: 15px 0;
+}
+
+.orgs {
+    &__item {
+        margin-bottom: 15px;
+    }
+    &__link {
+        &:hover {
+            filter: brightness(90%);
+        }
+    }
 }
 
 .minor-heading {
