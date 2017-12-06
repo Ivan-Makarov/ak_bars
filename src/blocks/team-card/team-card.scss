@@ -1,0 +1,42 @@
+.team-card {
+    $team-card-badge-size: 100px;
+    align-items: center;
+    &__badge {
+        height: $team-card-badge-size;
+        width: $team-card-badge-size;
+        background-color: white;
+        border-radius: 50%;
+        border: 1px solid $dark-gray;
+        margin: 0 28px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    &__badge-img {
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        height: $team-card-badge-size * 0.75;
+        width: $team-card-badge-size * 0.75;
+    }
+    &__heading {
+        font-weight: 600;
+        color: $green;
+        margin-bottom: 6px;
+    }
+    &__city,
+    &__country {
+        font-size: 12px;
+        font-weight: 300;
+        color: $text-gray;
+    }
+    &__city {
+        margin-bottom: 9px;
+    }
+    &__flag {
+        width: 27px;
+        height: 15px;
+        background-color: $dark-green;
+        margin-bottom: 8px;
+    }
+}

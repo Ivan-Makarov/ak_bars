@@ -1,6 +1,6 @@
 <aside class="aside">
     <?php
-        $sn_modifier = 'aside__social-networks';
+        $sn_modifier = 'social-networks_aside';
 
         if (!$aside_content)
         {

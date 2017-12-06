@@ -8,10 +8,10 @@
                 <a href="" class="link social-links__link social-links__link_to_instagram social-networks__link"></a>
             </li>
             <li class="social-links__list-item social-networks__list-item">
-                <a href="" class="link social-links__link social-links__link_to_instagram social-networks__link"></a>
+                <a href="" class="link social-links__link social-links__link_to_facebook social-networks__link"></a>
             </li>
             <li class="social-links__list-item social-networks__list-item">
-                <a href="" class="link social-links__link social-links__link_to_instagram social-networks__link"></a>
+                <a href="" class="link social-links__link social-links__link_to_vk social-networks__link"></a>
             </li>
         </ul>
     </section>

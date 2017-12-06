@@ -23,10 +23,10 @@
                         <a href="" class="link social-links__link social-links__link_to_instagram header__social-link"></a>
                     </li>
                     <li class="social-links__list-item header__social-list-item">
-                        <a href="" class="link social-links__link social-links__link_to_instagram header__social-link"></a>
+                        <a href="" class="link social-links__link social-links__link_to_facebook header__social-link"></a>
                     </li>
                     <li class="social-links__list-item header__social-list-item">
-                        <a href="" class="link social-links__link social-links__link_to_instagram header__social-link"></a>
+                        <a href="" class="link social-links__link social-links__link_to_vk header__social-link"></a>
                     </li>
                 </ul>
             </section>

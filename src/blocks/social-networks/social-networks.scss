@@ -6,16 +6,26 @@
     &__list-item {
         height: 35px;
         width: 35px;
-        background-color: red;
     }
-    &_index {
+    &_aside {
         width: $info-card-width;
+        .social-links__link_to {
+            &_instagram {
+                background-image: url('/img/icons/instagram_gray.png');
+            }
+            &_facebook {
+                background-image: url('/img/icons/fb_gray.png');
+            }
+            &_vk {
+                background-image: url('/img/icons/vk_gray.png');
+            }
+        }
     }
 }
 
-$instagram_icon: '';
-$fb_icon: '';
-$vk_icon: '';
+$instagram_icon: '/img/icons/instagram.png';
+$fb_icon: '/img/icons/fb.png';
+$vk_icon: '/img/icons/vk.png';
 
 .social-links {
     &__link {
@@ -28,12 +38,21 @@ $vk_icon: '';
         &_to {
             &_instagram {
                 background-image: url($instagram_icon);
+                &:hover {
+                    background-image: url('/img/icons/instagram_green.png');
+                }
             }
             &_facebook {
-                background-image: url($instagram_icon);
+                background-image: url($fb_icon);
+                &:hover {
+                    background-image: url('/img/icons/fb_green.png');
+                }
             }
             &_vk {
-                background-image: url($instagram_icon);
+                background-image: url($vk_icon);
+                &:hover {
+                    background-image: url('/img/icons/vk_green.png');
+                }
             }
         }
     }
