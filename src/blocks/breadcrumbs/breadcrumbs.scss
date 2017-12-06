@@ -1,0 +1,20 @@
+.breadcrumbs {
+    font-weight: 500;
+    color: $dark-gray;
+    margin-bottom: 34px;
+    &__item {
+        &:not(:last-child) {
+            &::after {
+                content: '\00BB';
+                margin: 0 5px;
+                display: inline;
+            }
+        }
+    }
+    &__link {
+        text-decoration: underline;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}

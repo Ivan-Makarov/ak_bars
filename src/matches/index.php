@@ -17,6 +17,9 @@
     </div>
     <div class="content container-flex">
         <main class="main">
+            <?php
+                require $blocks['breadcrumbs'];
+            ?>
             <article class="matchday article">
                 <h3 class="heading section-heading">
                     Среда, 27 декабря

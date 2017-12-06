@@ -11,5 +11,6 @@
         'player-stats' => $_SERVER['DOCUMENT_ROOT'].'/blocks/player-stats/player-stats.php',
         'top-stats' => $_SERVER['DOCUMENT_ROOT'].'/blocks/top-stats/top-stats.php',
         'latest-news' => $_SERVER['DOCUMENT_ROOT'].'/blocks/latest-news/latest-news.php',
+        'breadcrumbs' => $_SERVER['DOCUMENT_ROOT'].'/blocks/breadcrumbs/breadcrumbs.php',
     );
 ?>

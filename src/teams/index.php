@@ -17,6 +17,9 @@
     </div>
     <div class="content container-flex">
         <main class="main">
+            <?php
+                require $blocks['breadcrumbs'];
+            ?>
             <ul class="teams-list container-flex container-flex_grid article">
                 <li class="teams-list__item container-flex__grid-item">
                     <article class="info-card teams-list__team team-card container-flex">

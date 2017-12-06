@@ -17,6 +17,9 @@
     </div>
     <div class="content container-flex">
         <main class="main">
+            <?php
+                require $blocks['breadcrumbs'];
+            ?>
             <section class="lead-image container-flex">
                 <img src="/img/slider-1.jpg" alt="" class="lead-image__img">
             </section>

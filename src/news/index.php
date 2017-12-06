@@ -17,6 +17,9 @@
     </div>
     <div class="content container-flex">
         <main class="main news">
+            <?php
+                require $blocks['breadcrumbs'];
+            ?>
             <ul class="news-list container-flex container-flex_grid article">
                 <li class="news-list__item container-flex__grid-item">
                     <article class="news-preview">

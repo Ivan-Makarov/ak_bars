@@ -4,7 +4,7 @@
     </h3>
     <ul class="news-list container-flex container-flex_grid article">
         <li class="news-list__item container-flex__grid-item">
-            <article class="news-preview">
+            <article class="news-preview latest-news__news-preview">
                 <section class="news-preview__image-container container-flex">
                     <img src="/img/slider-1.jpg" alt="" class="news-preview__image">
                 </section>
@@ -21,7 +21,7 @@
             </article>
         </li>
         <li class="news-list__item container-flex__grid-item">
-            <article class="news-preview">
+            <article class="news-preview latest-news__news-preview">
                 <section class="news-preview__image-container container-flex">
                     <img src="/img/slider-1.jpg" alt="" class="news-preview__image">
                 </section>
@@ -38,7 +38,7 @@
             </article>
         </li>
         <li class="news-list__item container-flex__grid-item">
-            <article class="news-preview">
+            <article class="news-preview latest-news__news-preview">
                 <section class="news-preview__image-container container-flex">
                     <img src="/img/slider-1.jpg" alt="" class="news-preview__image">
                 </section>
@@ -55,7 +55,7 @@
             </article>
         </li>
         <li class="news-list__item container-flex__grid-item">
-            <article class="news-preview">
+            <article class="news-preview latest-news__news-preview">
                 <section class="news-preview__image-container container-flex">
                     <img src="/img/slider-1.jpg" alt="" class="news-preview__image">
                 </section>
