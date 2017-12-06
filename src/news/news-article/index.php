@@ -57,6 +57,25 @@
                     &laquo;Эти дети&nbsp;&mdash; наше подрастающее поколение, замена нам. Я&nbsp;понимаю, что многим не&nbsp;хватает экипировки&nbsp;&mdash; я&nbsp;сам проходил через это в&nbsp;их&nbsp;возрасте. Приходилось просить клюшки у&nbsp;профессионалов, зарабатывать своей игрой, получать поощрения от&nbsp;тренера в&nbsp;виде формы или новой клюшки. Поэтому считаю, что &laquo;Академия хоккея Ак&nbsp;Барс&raquo; сделала правильную акцию, в&nbsp;которой я&nbsp;был рад принять участие&raquo;.
                 </p>
             </article>
+            <section class="share container-flex">
+                <p class="share__text">
+                    Поделиться новостью в социальных сетях:
+                </p>
+                <ul class="share__links-list container-flex">
+                    <li class="share__list-item">
+                        <a href="" class="share__link"></a>
+                    </li>
+                    <li class="share__list-item">
+                        <a href="" class="share__link"></a>
+                    </li>
+                    <li class="share__list-item">
+                        <a href="" class="share__link"></a>
+                    </li>
+                    <li class="share__list-item">
+                        <a href="" class="share__link"></a>
+                    </li>
+                </ul>
+            </section>
         </main>
         <?php
             $aside_content = array('tournament', 'latest-news');
