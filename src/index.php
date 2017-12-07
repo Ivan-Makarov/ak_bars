@@ -111,6 +111,9 @@
                 ?>
             </div>
         </div>
+        <?php
+            require $blocks['video-section'];
+        ?>
     </main>
     <?php
         require $blocks['footer'];
