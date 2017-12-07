@@ -3,6 +3,16 @@ $footer-main-text-color: $off-white;
 $footer-item-heading-text-color: $green;
 
 .footer {
+    &__logo-container {
+        align-items: center;
+        justify-content: space-around;
+    }
+    &__logo {
+        height: 140px;
+    }
+    &__logo-link {
+        height: 100%;
+    }
     &__partners-heading {
         color: white;
         padding-top: 15px;

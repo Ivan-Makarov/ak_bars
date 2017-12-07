@@ -39,8 +39,12 @@
     </section>
     <section class="footer__main">
         <div class="content container-flex">
-            <section class="logo footer__logo footer__section">
-                <a class="link logo__link footer__logo-link" href="/"></a>
+            <section class="footer__section container-flex footer__logo-container">
+                <section class="logo footer__logo">
+                    <a href="/" class="link logo__link footer__logo-link">
+                        <img class="logo__img footer__logo-img" src="/img/logo.png" alt="Логотип турнира">
+                    </a>
+                </section>
             </section>
 
             <section class="orgs footer__orgs footer__section">
