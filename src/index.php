@@ -113,6 +113,7 @@
         </div>
         <?php
             require $blocks['video-section'];
+            require $blocks['photo-section'];
         ?>
     </main>
     <?php

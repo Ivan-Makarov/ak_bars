@@ -15,5 +15,6 @@
         'match-slider' => $_SERVER['DOCUMENT_ROOT'].'/blocks/match-slider/match-slider.php',
         'main-slider' => $_SERVER['DOCUMENT_ROOT'].'/blocks/main-slider/main-slider.php',
         'video-section' => $_SERVER['DOCUMENT_ROOT'].'/blocks/video-section/video-section.php',
+        'photo-section' => $_SERVER['DOCUMENT_ROOT'].'/blocks/photo-section/photo-section.php',
     );
 ?>
