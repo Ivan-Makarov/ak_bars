@@ -17,6 +17,9 @@
                 require $blocks['match-slider'];
             ?>
         </div>
+        <?php
+            require $blocks['main-slider'];
+        ?>
         <div class="all-width-stripe all-width-stripe_<?= $modifier ?>">
             <div class="content container-flex">
                 <?php
