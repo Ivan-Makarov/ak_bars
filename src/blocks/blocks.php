@@ -12,5 +12,7 @@
         'top-stats' => $_SERVER['DOCUMENT_ROOT'].'/blocks/top-stats/top-stats.php',
         'latest-news' => $_SERVER['DOCUMENT_ROOT'].'/blocks/latest-news/latest-news.php',
         'breadcrumbs' => $_SERVER['DOCUMENT_ROOT'].'/blocks/breadcrumbs/breadcrumbs.php',
+        'match-slider' => $_SERVER['DOCUMENT_ROOT'].'/blocks/match-slider/match-slider.php',
+        'match-slider' => $_SERVER['DOCUMENT_ROOT'].'/blocks/main-slider/main-slider.php',
     );
 ?>

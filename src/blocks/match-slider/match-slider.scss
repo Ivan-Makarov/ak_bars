@@ -1,0 +1,76 @@
+.match-slider {
+    &__item {
+        box-sizing: border-box;
+        height: 130px;
+        padding: 7px 10px;
+        width: 200px;
+        color: $text-gray;
+        justify-content: space-between;
+    }
+    &__when {
+        justify-content: space-between;
+        font-size: 12px;
+    }
+    &__item-date {
+        display: inline-block;
+        padding: 0px 10px;
+        border-left: 2px solid $text-gray;
+        border-right: 2px solid $text-gray;
+    }
+    &__link {
+        font-size: 11px;
+        text-transform: uppercase;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    &__team {
+        justify-content: space-between;
+        font-weight: 600;
+    }
+    &__badge {
+        width: 33px;
+        height: 25px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        margin-right: 8px;
+    }
+    &__name,
+    &__scored {
+        line-height: 25px;
+    }
+
+    &__nav {
+        width: 100%;
+        position: absolute;
+        height: 18px;
+        top: 50%;
+        transform: translateY(-9px);
+        .owl-next,
+        .owl-prev {
+            position: relative;
+            height: 18px;
+            width: 9px;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position: center;
+            background-image: url('/img/icons/arrow.png');
+            &:hover {
+                cursor: pointer;
+            }
+        }
+        .owl-prev {
+            left: -20px;
+        }
+        .owl-next {
+            transform: rotate(180deg);
+            right: -20px;
+        }
+    }
+}
+
+.match-slider-container {
+    position: relative;
+    margin: 67px 0 30px;
+}

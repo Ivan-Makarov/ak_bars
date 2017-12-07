@@ -12,6 +12,11 @@
         require $blocks['header'];
     ?>
     <main class="main">
+        <div class="content">
+            <?php
+                require $blocks['match-slider'];
+            ?>
+        </div>
         <div class="all-width-stripe all-width-stripe_<?= $modifier ?>">
             <div class="content container-flex">
                 <?php

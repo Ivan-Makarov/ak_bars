@@ -47,6 +47,7 @@ gulp.task('css', () => {
             autoprefixer(),
             mqpacker()
         ]))
+        .pipe(sourcemaps.write())
         .pipe(gulp.dest('./dist/css'))
         .pipe(rename({
             suffix: ".min"
