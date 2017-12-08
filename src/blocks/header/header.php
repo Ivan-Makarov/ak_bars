@@ -67,7 +67,7 @@
                             </a>
                         </li>
                         <li class="nav__list-item header__nav-list-item">
-                            <a href="" class="link nav__list-item-link header__nav-list-item-link">
+                            <a href="/video-gallery/" class="link nav__list-item-link header__nav-list-item-link">
                                 Видео
                             </a>
                         </li>
