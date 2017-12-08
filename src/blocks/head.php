@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/css/main.min.css">
     <script src="/js/jquery.min.js"></script>
+    <script src="https://api-maps.yandex.ru/2.1/?lang=en_US" type="text/javascript"></script>
     <script src="/js/owl.carousel.min.js" defer></script>
     <script src="/js/main.min.js" defer></script>
 </head>

@@ -1,0 +1,36 @@
+.contacts {
+    &__section {
+        color: $text-gray;
+        margin-bottom: 20px;
+        line-height: 20px
+    }
+}
+
+.form {
+    margin-top: 60px;
+    p {
+        margin-bottom: 24px;
+    }
+    &__input {
+        display: block;
+        padding: 15px 13px 15px 9px;
+        line-height: 20px;
+        font-family: $base-font-family;
+        font-weight: 300;
+        width: 50%;
+        margin-bottom: 20px;
+        &:hover {
+            border-color: $green;
+        }
+        &:focus {
+            outline: 1px solid $green;
+        }
+    }
+    &__textarea {
+        width: 100%;
+        min-height: 200px;
+    }
+    .button {
+        text-transform: none;
+    }
+}

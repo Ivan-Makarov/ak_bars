@@ -72,7 +72,7 @@
                             </a>
                         </li>
                         <li class="nav__list-item header__nav-list-item">
-                            <a href="" class="link nav__list-item-link header__nav-list-item-link">
+                            <a href="/contacts/" class="link nav__list-item-link header__nav-list-item-link">
                                 Контакты
                             </a>
                         </li>
