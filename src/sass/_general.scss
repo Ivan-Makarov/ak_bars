@@ -58,7 +58,7 @@ html {
 }
 
 .section-heading {
-    padding: 34px 0 22px;
+    margin: 34px 0 22px;
 }
 
 .article {
@@ -113,4 +113,18 @@ $link-hover-color: $green;
 
 .news {
     padding-bottom: 180px;
+}
+
+.gallery {
+    flex-wrap: wrap;
+    &__item {
+        width: $info-card-width;
+        margin-bottom: 52px;
+    }
+    &__button {
+        display: block;
+        margin: 0 auto;
+        text-transform: none;
+        margin-bottom: 300px;
+    }
 }
