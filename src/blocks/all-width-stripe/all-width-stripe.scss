@@ -4,6 +4,10 @@
         background-color: $off-white;
     }
     &_footer {
-        background-color: $dark-green;
+        // background-color: $dark-green;
+        background-position: 0 0;
+        background-size: auto 100%;
+        background-repeat: repeat-x;
+        background-image: url('/img/partners-bg.jpg');
     }
 }
