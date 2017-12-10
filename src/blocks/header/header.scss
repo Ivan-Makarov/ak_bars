@@ -4,6 +4,10 @@ $header-bg-color: $green;
     padding: 6px 0 18px;
     color: $header-text-color;
     background-color: $dark-green;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('/img/header-bg.png');
     &__reach {
         justify-content: space-between;
         margin-bottom: 14px;

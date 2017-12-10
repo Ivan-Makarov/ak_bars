@@ -1,6 +1,10 @@
 .video-section {
     padding-bottom: 50px;
     background-color: $dark-green;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('/img/video-bg.jpg');
     &__item-heading {
         color: $green
     }

@@ -132,3 +132,12 @@ $link-hover-color: $green;
         margin-bottom: 300px;
     }
 }
+
+@media screen and (min-width: 1400px) {
+    .main-bg {
+        background-image: url('/img/main-bg-left.png'), url('/img/main-bg-right.png');
+        background-repeat: no-repeat, no-repeat;
+        background-position: 0 90%, 100% 10%;
+        background-size: 120px auto, 120px auto;        
+    }
+}
