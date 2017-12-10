@@ -1,0 +1,47 @@
+.match-stats {
+    margin-top: 25px;
+    &__article {
+        width: $info-card-width;
+    }
+    &__heading {
+        margin-bottom: 20px;
+        font-size: 18px;
+        line-height: 22px;
+        color: $text-gray;
+        font-weight: 500;
+    }
+    &__table {
+        border-collapse: collapse;
+        border: 1px solid $off-white;
+        width: 100%;
+    }
+    &__thead {
+        background-color: $off-white;
+        font-weight: 600;
+    }
+    &__td {
+        font-weight: 300;
+    }
+    &__th,
+    &__td {
+        padding: 20px 10px;
+        text-align: center;
+        &:first-child {
+            text-align: left;
+        }
+    }
+}
+.extra-stats {
+    display: block;
+    width: $info-card-width;
+    margin: 50px auto 450px;
+    padding: 15px 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: $green;
+    background-color: $off-white;
+    font-weight: 500;
+    &:hover {
+        text-decoration: underline;
+    }
+}
