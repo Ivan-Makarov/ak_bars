@@ -77,6 +77,10 @@ $link-hover-color: $green;
     }
 }
 
+.link-container {
+    display: block;
+}
+
 .lead-image {
     width: $lead-image-width;
     height: 450px;

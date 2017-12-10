@@ -1,0 +1,82 @@
+.match-info {
+    &_match-preview {
+        margin-bottom: 500px;
+    }
+    background-color: $off-white;
+    padding: 70px 90px 90px;
+    justify-content: space-between;
+    $match-info-badge-size: 160px;
+    &__team {
+        align-items: center;
+    }
+    &__team-badge {
+        height: $match-info-badge-size;
+        width: $match-info-badge-size;
+        background-color: white;
+        border-radius: 50%;
+        border: 1px solid $dark-gray;
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    &__team-badge-img {
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        height: $match-info-badge-size * 0.75;
+        width: $match-info-badge-size * 0.75;
+    }
+    &__team-name {
+        font-size: 25px;
+        font-weight: 600;
+        color: $green;
+        margin-bottom: 5px;
+    }
+    &__team-city {
+        flex: 20px;
+        color: $text-gray;
+        font-weight: 300;
+    }
+    &__info {
+        align-items: center;
+    }
+    &__group-number {
+        font-size: 20px;
+        color: $text-gray;
+        font-weight: 300;
+    }
+    &__time {
+        font-weight: 700;
+        color: $dark-gray;
+        font-size: 70px;
+    }
+    &__score {
+        font-weight: 700;
+        color: $green;
+        font-size: 70px;
+    }
+    &__date-place {
+        color: $dark-gray;
+        font-size: 15px;
+        span {
+            padding: 0 5px;
+        }
+    }
+    &__button {
+        margin-top: 60px;
+        text-transform: none;
+    }
+    &__link {
+        font-weight: 600;
+        display: block;
+        padding: 0 20px;
+    }
+    &__comment {
+        font-size: 15px;
+        font-weight: 600;
+        color: $text-gray;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+}

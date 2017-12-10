@@ -26,139 +26,149 @@
                 </h3>
                 <ol class="matchday__matches container-flex container-flex_grid">
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">15</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">15</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col">
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">14</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col">
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">14</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">13</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">13</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">12</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">12</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">11</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">11</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                 </ol>
             </article>
@@ -168,139 +178,149 @@
                 </h3>
                 <ol class="matchday__matches container-flex container-flex_grid">
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">10</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">10</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">9</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">9</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">8</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">8</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">7</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">7</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                     <li class="container-flex__grid-item matchday__match-container">
-                        <article class="match-card info-card container-flex">
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
-                                <p class="team-badge__name match-card__team-name">ЦСКА</p>
-                                <p class="team-badge__from  match-card__team-from">Москва</p>
-                            </section>
-
-                            <section class="match-card__info container-flex container-flex_col">
-                                <section class="match-card__number">
-                                    № <span class="match-card__number-value">6</span>
+                        <a href="/matches/match-preview" class="link-container">
+                            <article class="match-card info-card container-flex">
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/cska.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">ЦСКА</p>
+                                    <p class="team-badge__from  match-card__team-from">Москва</p>
                                 </section>
-                                <section class="match-card__time">
-                                    19:00
-                                    <div class="match-card__time-zone">
-                                        Мск
-                                    </div>
-                                </section>
-                            </section>
 
-                            <section class="team-badge match-card__team container-flex container-flex_col" >
-                                <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
-                                <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
-                                <p class="team-badge__from match-card__team-from">Казань</p>
-                            </section>
-                        </article>
+                                <section class="match-card__info container-flex container-flex_col">
+                                    <section class="match-card__number">
+                                        № <span class="match-card__number-value">6</span>
+                                    </section>
+                                    <section class="match-card__time">
+                                        19:00
+                                        <div class="match-card__time-zone">
+                                            Мск
+                                        </div>
+                                    </section>
+                                </section>
+
+                                <section class="team-badge match-card__team container-flex container-flex_col" >
+                                    <section class="team-badge__img" style="background-image: url('/img/akbars.png')"></section>
+                                    <p class="team-badge__name match-card__team-name">Академия Ак Барс</p>
+                                    <p class="team-badge__from match-card__team-from">Казань</p>
+                                </section>
+                            </article>
+                        </a>
                     </li>
                 </ol>
             </article>
@@ -325,7 +345,7 @@
                                     10:1
                                 </section>
                                 <section class="match-card__links">
-                                    <a href="" class="link match-card__link">Протокол</a>
+                                    <a href="/matches/match-result" class="link match-card__link">Протокол</a>
                                     <a href="" class="link match-card__link">Фото</a>
                                     <a href="" class="link match-card__link">Видео</a>
                                 </section>
@@ -354,7 +374,7 @@
                                     10:1
                                 </section>
                                 <section class="match-card__links">
-                                    <a href="" class="link match-card__link">Протокол</a>
+                                    <a href="/matches/match-result" class="link match-card__link">Протокол</a>
                                     <a href="" class="link match-card__link">Фото</a>
                                     <a href="" class="link match-card__link">Видео</a>
                                 </section>
@@ -383,7 +403,7 @@
                                     10:1
                                 </section>
                                 <section class="match-card__links">
-                                    <a href="" class="link match-card__link">Протокол</a>
+                                    <a href="/matches/match-result" class="link match-card__link">Протокол</a>
                                     <a href="" class="link match-card__link">Фото</a>
                                     <a href="" class="link match-card__link">Видео</a>
                                 </section>
@@ -412,7 +432,7 @@
                                     10:1
                                 </section>
                                 <section class="match-card__links">
-                                    <a href="" class="link match-card__link">Протокол</a>
+                                    <a href="/matches/match-result" class="link match-card__link">Протокол</a>
                                     <a href="" class="link match-card__link">Фото</a>
                                     <a href="" class="link match-card__link">Видео</a>
                                 </section>
@@ -441,7 +461,7 @@
                                     10:1
                                 </section>
                                 <section class="match-card__links">
-                                    <a href="" class="link match-card__link">Протокол</a>
+                                    <a href="/matches/match-result" class="link match-card__link">Протокол</a>
                                     <a href="" class="link match-card__link">Фото</a>
                                     <a href="" class="link match-card__link">Видео</a>
                                 </section>
