@@ -31,17 +31,3 @@
         }
     }
 }
-.extra-stats {
-    display: block;
-    width: $info-card-width;
-    margin: 50px auto 450px;
-    padding: 15px 0;
-    text-align: center;
-    text-transform: uppercase;
-    color: $green;
-    background-color: $off-white;
-    font-weight: 500;
-    &:hover {
-        text-decoration: underline;
-    }
-}

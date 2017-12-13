@@ -1,0 +1,108 @@
+.team-brief {
+    $team-brief-badge-size: 160px;
+    margin-bottom: 50px;
+    padding: 33px 100px 33px 50px;
+    background-color: $off-white;
+    &__team-badge {
+        height: $team-brief-badge-size;
+        width: $team-brief-badge-size;
+        background-color: white;
+        border-radius: 50%;
+        border: 1px solid $dark-gray;
+        margin-right: 90px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    &__badge-img {
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        height: $team-brief-badge-size * 0.75;
+        width: $team-brief-badge-size * 0.75;
+    }
+    &__team-name {
+        font-size: 25px;
+        font-weight: 600;
+        color: $green;
+        margin-bottom: 12px;
+    }
+    &__city {
+        font-size: 20px;
+        font-weight: 300;
+        margin-bottom: 16px;
+    }
+    &__flag {
+        width: 27px;
+        height: 15px;
+        background-color: $dark-green;
+        margin-bottom: 8px;
+    }
+    &__country {
+        font-weight: 300;
+        margin-bottom: 28px;
+    }
+    &__place {
+        font-size: 20px;
+        font-weight: 600;
+        color: $green;
+    }
+    &__info-heading {
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+    &__info {
+        width: 33%;
+    }
+    &__info-th {
+        padding-right: 20px;
+    }
+    &__info-th,
+    &__info-td {
+        text-align: left;
+        font-weight: 300;
+        padding-bottom: 10px;
+    }
+}
+
+.team-details {
+    margin-bottom: 120px;
+    &__heading {
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    }
+    &__main-col {
+        flex: 1;
+    }
+    &__side-col {
+        width: $info-card-width;
+        margin-left: $grid-gutter;
+    }
+    &__article {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    &__table {
+        width: 100%;
+    }
+    &__th {
+        background-color: $off-white;
+        &:first-child {
+            text-align: left;
+        }
+        &_center {
+            text-align: center;
+        }
+    }
+    &__td {
+        &:not(:first-child) {
+            text-align: center;
+        }
+        &_strong {
+            font-weight: 600;
+            text-align: left;
+        }
+    }
+}
