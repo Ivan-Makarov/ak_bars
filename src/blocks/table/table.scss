@@ -9,7 +9,7 @@
         font-size: 11px;
         line-height: 25px;
         &_highlight {
-            color: $green;
+            color: $green2;
             &._index {
                 color: white;
             }
@@ -17,7 +17,7 @@
     }
     &__item,
     &__head-item {
-        padding: 5px 5px;
+        padding: 5px 4px;
     }
 }
 

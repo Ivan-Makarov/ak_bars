@@ -2,6 +2,7 @@ html {
     font-size: $base_font_size;
     font-family: $base_font_family;
     font-weight: $base_font_weight;
+    color: $text-gray;
 }
 
 .body {
@@ -101,11 +102,12 @@ $link-hover-color: $green;
 
 .button {
     display: inline-block;
+    padding: 13px 18px 14px;
     background-color: $green;
     color: white;
-    padding: 12px 17px 15px 23px;
     font-weight: 600;
     text-transform: uppercase;
+    border-radius: 0;
     b {
         font-size: 20px;
     }
@@ -138,6 +140,6 @@ $link-hover-color: $green;
         background-image: url('/img/main-bg-left.png'), url('/img/main-bg-right.png');
         background-repeat: no-repeat, no-repeat;
         background-position: 0 90%, 100% 10%;
-        background-size: 120px auto, 120px auto;        
+        background-size: 120px auto, 120px auto;
     }
 }

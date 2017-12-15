@@ -19,9 +19,11 @@
     }
     &__link {
         font-size: 11px;
-        text-transform: uppercase;
+        color: $green;
+        text-transform: lowercase;
+        text-decoration: underline;
         &:hover {
-            text-decoration: underline;
+            text-decoration: none;
         }
     }
     &__team {

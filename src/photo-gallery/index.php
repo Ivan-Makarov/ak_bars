@@ -23,7 +23,7 @@
                 <section class="container-flex container-flex_sb gallery">
                     <article class="album-preview album-preview_gallery gallery__item" style="background-image: url('/img/slider-1.jpg')">
                         <a href="" class="album-preview__info container-flex container-flex_col">
-                            <span class="album-preview__button">+</span>
+                            <span class="album-preview__button"></span>
                             <h4 class="album-preview__heading">Небольшое название фотоальбома в две строки</h4>
                             <section class="album-preview__number">
                                 <span class="album-preview__number-value">15</span>
@@ -33,7 +33,7 @@
                     </article>
                     <article class="album-preview album-preview_gallery gallery__item" style="background-image: url('/img/slider-1.jpg')">
                         <a href="" class="album-preview__info container-flex container-flex_col">
-                            <span class="album-preview__button">+</span>
+                            <span class="album-preview__button"></span>
                             <h4 class="album-preview__heading">Небольшое название фотоальбома в две строки</h4>
                             <section class="album-preview__number">
                                 <span class="album-preview__number-value">15</span>
@@ -43,7 +43,7 @@
                     </article>
                     <article class="album-preview album-preview_gallery gallery__item" style="background-image: url('/img/slider-1.jpg')">
                         <a href="" class="album-preview__info container-flex container-flex_col">
-                            <span class="album-preview__button">+</span>
+                            <span class="album-preview__button"></span>
                             <h4 class="album-preview__heading">Небольшое название фотоальбома в две строки</h4>
                             <section class="album-preview__number">
                                 <span class="album-preview__number-value">15</span>
@@ -58,7 +58,7 @@
                 <section class="container-flex container-flex_sb gallery">
                     <article class="album-preview album-preview_gallery gallery__item" style="background-image: url('/img/slider-1.jpg')">
                         <a href="" class="album-preview__info container-flex container-flex_col">
-                            <span class="album-preview__button">+</span>
+                            <span class="album-preview__button"></span>
                             <h4 class="album-preview__heading">Небольшое название фотоальбома в две строки</h4>
                             <section class="album-preview__number">
                                 <span class="album-preview__number-value">15</span>
@@ -68,7 +68,7 @@
                     </article>
                     <article class="album-preview album-preview_gallery gallery__item" style="background-image: url('/img/slider-1.jpg')">
                         <a href="" class="album-preview__info container-flex container-flex_col">
-                            <span class="album-preview__button">+</span>
+                            <span class="album-preview__button"></span>
                             <h4 class="album-preview__heading">Небольшое название фотоальбома в две строки</h4>
                             <section class="album-preview__number">
                                 <span class="album-preview__number-value">15</span>
@@ -78,7 +78,7 @@
                     </article>
                     <article class="album-preview album-preview_gallery gallery__item" style="background-image: url('/img/slider-1.jpg')">
                         <a href="" class="album-preview__info container-flex container-flex_col">
-                            <span class="album-preview__button">+</span>
+                            <span class="album-preview__button"></span>
                             <h4 class="album-preview__heading">Небольшое название фотоальбома в две строки</h4>
                             <section class="album-preview__number">
                                 <span class="album-preview__number-value">15</span>
@@ -88,7 +88,7 @@
                     </article>
                     <article class="album-preview album-preview_gallery gallery__item" style="background-image: url('/img/slider-1.jpg')">
                         <a href="" class="album-preview__info container-flex container-flex_col">
-                            <span class="album-preview__button">+</span>
+                            <span class="album-preview__button"></span>
                             <h4 class="album-preview__heading">Небольшое название фотоальбома в две строки</h4>
                             <section class="album-preview__number">
                                 <span class="album-preview__number-value">15</span>

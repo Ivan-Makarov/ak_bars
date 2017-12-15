@@ -11,7 +11,10 @@
 
 .video-container {
     position: relative;
-    height: 200px;
+    height: 250px;
+    &_index {
+        height: 200px;
+    }
     width: 100%;
     &.inactive {
         &::after {

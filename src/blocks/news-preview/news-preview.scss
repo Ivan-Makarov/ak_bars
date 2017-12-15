@@ -1,6 +1,6 @@
 .news-preview {
     width: $info-card-width;
-    height: 440px;
+    height: 380px;
     border-bottom: 1px dashed $dark-gray;
     &__image-container {
         justify-content: space-around;
@@ -21,7 +21,7 @@
         font-weight: 500;
         color: $text-color;
         height: $heading_lh * 3;
-        margin-bottom: 16px;
+        margin-bottom: 12px;
         overflow: hidden;
     }
     &__text {
@@ -36,5 +36,11 @@
     }
     &__more {
         font-weight: 600;
+    }
+}
+
+.news-list {
+    &__item {
+        margin-bottom: 23px;
     }
 }
