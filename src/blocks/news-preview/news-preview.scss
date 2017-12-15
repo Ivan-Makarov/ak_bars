@@ -1,7 +1,7 @@
 .news-preview {
     width: $info-card-width;
     height: 380px;
-    border-bottom: 1px dashed $dark-gray;
+    border-bottom: 2px dashed $dark-gray;
     &__image-container {
         justify-content: space-around;
         align-items: center;
@@ -36,6 +36,10 @@
     }
     &__more {
         font-weight: 600;
+        color: $green;
+        &:hover {
+            color: $text-gray;
+        }
     }
 }
 

@@ -17,6 +17,10 @@ html {
     min-width: $content-width;;
     width: $content-width;
     margin: 0 auto;
+    &_wider {
+        min-width: 1312px;
+        width: 1312px;
+    }
 }
 
 .page-container {
@@ -108,6 +112,7 @@ $link-hover-color: $green;
     font-weight: 600;
     text-transform: uppercase;
     border-radius: 0;
+    line-height: 1;
     b {
         font-size: 20px;
     }
@@ -123,8 +128,10 @@ $link-hover-color: $green;
 
 .gallery {
     flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: -$grid-gutter;
     &__item {
-        width: $info-card-width;
+        padding-left: $grid-gutter;
         margin-bottom: 52px;
     }
     &__button {
@@ -133,11 +140,27 @@ $link-hover-color: $green;
         text-transform: none;
         margin-bottom: 300px;
     }
+    &__link {
+        width: $info-card-width;
+        &:hover {
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                text-decoration: underline;
+            }
+        }
+    }
+    &__container {
+        width: $info-card-width;
+        // padding-left: $grid-gutter;
+    }
 }
 
 @media screen and (min-width: 1400px) {
     .main-bg {
-        background-image: url('/img/main-bg-left.png'), url('/img/main-bg-right.png');
+        background-image: url('../img/main-bg-left.png'), url('../img/main-bg-right.png');
         background-repeat: no-repeat, no-repeat;
         background-position: 0 90%, 100% 10%;
         background-size: 120px auto, 120px auto;

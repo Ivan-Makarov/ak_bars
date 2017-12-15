@@ -13,9 +13,9 @@
     }
     &__item-date {
         display: inline-block;
-        padding: 0px 10px;
-        border-left: 2px solid $text-gray;
-        border-right: 2px solid $text-gray;
+        // padding: 0px 10px;
+        // border-left: 2px solid $text-gray;
+        // border-right: 2px solid $text-gray;
     }
     &__link {
         font-size: 11px;
@@ -57,7 +57,7 @@
             background-repeat: no-repeat;
             background-size: contain;
             background-position: center;
-            background-image: url('/img/icons/arrow.png');
+            background-image: url('../img/icons/arrow.png');
             &:hover {
                 cursor: pointer;
             }

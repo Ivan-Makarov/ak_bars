@@ -3,6 +3,8 @@
         <h2 class="heading section-heading">
             Фотогалерея
         </h2>
+    </div>
+    <div class="content content_wider">
         <section class="album-previews container-flex">
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
                 <a href="" class="album-preview__info container-flex container-flex_col">

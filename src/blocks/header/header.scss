@@ -7,7 +7,7 @@ $header-bg-color: $green;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('/img/header-bg.png');
+    background-image: url('../img/header-bg.png');
     &__reach {
         justify-content: space-between;
         margin-bottom: 14px;
@@ -51,9 +51,9 @@ $main-heading-color: white;
     color: $main-heading-color;
 }
 
-$pin-icon: '/img/icons/pin.png';
-$phone-icon: '/img/icons/phone.png';
-$mail-icon: '/img/icons/mail.png';
+$pin-icon: '../img/icons/pin.png';
+$phone-icon: '../img/icons/phone.png';
+$mail-icon: '../img/icons/mail.png';
 
 .contacts {
     &__list-item {
@@ -83,8 +83,6 @@ $mail-icon: '/img/icons/mail.png';
         font-size: 15px;
         font-weight: 600;
         margin-left: 20px;
-        padding-left: 20px;
-        padding-right: 20px;
         &::after {
             display: none;
             width: 100%;
@@ -104,6 +102,8 @@ $mail-icon: '/img/icons/mail.png';
     &__list-item-link {
         text-align: center;
         display: block;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 }
 

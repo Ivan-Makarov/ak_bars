@@ -23,96 +23,102 @@
                     Вторник, 26 декабря
                 </h3>
                 <section class="gallery video-gallery container-flex container-flex_sb">
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
-                    </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
-                    </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
                 </section>
             </article>
-            <article>
+            <article></article>
                 <h3 class="heading section-heading">
                     Подельник, 25 декабря
                 </h3>
                 <section class="gallery video-gallery container-flex container-flex_sb">
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
-                    <article class="video-item gallery__item">
-                        <section class="video-container inactive">
-                            <video src="" class="video" poster="/img/slider-1.jpg"></video>
-                            <button class="video-play"></button>
-                        </section>
-                        <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                    <article class="gallery__item">
+                        <div class="gallery__container video-item">
+                            <section class="video-container inactive">
+                                <video src="" class="video" poster="/img/slider-1.jpg"></video>
+                                <button class="video-play"></button>
+                            </section>
+                            <h4 class="video-item__heading">Небольшое название видео в две строчки</h4>
+                        </div>
                     </article>
                 </section>
             </article>
