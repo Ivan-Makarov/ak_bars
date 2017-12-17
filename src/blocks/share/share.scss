@@ -1,3 +1,8 @@
+$fb_alt_icon: '../img/icons/fb_alt.png';
+$vk_alt_icon: '../img/icons/vk_alt.png';
+$ok_alt_icon: '../img/icons/ok_alt.png';
+$tw_alt_icon: '../img/icons/tw_alt.png';
+
 .share {
     align-items: center;
     &__text {
@@ -16,8 +21,25 @@
         display: block;
         height: 100%;
         width: 100%;
-        background-color: $green;
+        // background-color: $green;
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
+        background-position: center;
+        border-radius: 10%;
+        &:hover {
+            background-color: $off-white;
+        }
+        &_fb {
+            background-image: url($fb_alt_icon);
+        }
+        &_ok {
+            background-image: url($ok_alt_icon);
+        }
+        &_vk {
+            background-image: url($vk_alt_icon);
+        }
+        &_tw {
+            background-image: url($tw_alt_icon);
+        }
     }
 }

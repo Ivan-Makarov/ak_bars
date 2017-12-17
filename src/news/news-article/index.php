@@ -67,16 +67,16 @@
                     </p>
                     <ul class="share__links-list container-flex">
                         <li class="share__list-item">
-                            <a href="" class="share__link"></a>
+                            <a href="" class="share__link share__link_fb"></a>
                         </li>
                         <li class="share__list-item">
-                            <a href="" class="share__link"></a>
+                            <a href="" class="share__link share__link_vk"></a>
                         </li>
                         <li class="share__list-item">
-                            <a href="" class="share__link"></a>
+                            <a href="" class="share__link share__link_ok"></a>
                         </li>
                         <li class="share__list-item">
-                            <a href="" class="share__link"></a>
+                            <a href="" class="share__link share__link_tw"></a>
                         </li>
                     </ul>
                 </section>
