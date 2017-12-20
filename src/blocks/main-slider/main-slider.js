@@ -12,4 +12,4 @@ function initiateMainSlider() {
     })
 }
 
-document.addEventListener('DOMContentLoaded', initiateMainSlider);
+window.addEventListener('load', initiateMainSlider);

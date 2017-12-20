@@ -13,4 +13,4 @@ function initiateMatchSlider() {
     })
 }
 
-document.addEventListener('DOMContentLoaded', initiateMatchSlider);
+window.addEventListener('load', initiateMatchSlider);
