@@ -12,4 +12,4 @@ function initiateMainSlider() {
     })
 }
 
-window.addEventListener('load', initiateMainSlider);
+window.addEventListener('load', () => { initiateMainSlider() });

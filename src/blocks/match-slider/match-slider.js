@@ -13,4 +13,4 @@ function initiateMatchSlider() {
     })
 }
 
-window.addEventListener('load', initiateMatchSlider);
+window.addEventListener('load', () => { initiateMatchSlider() });
