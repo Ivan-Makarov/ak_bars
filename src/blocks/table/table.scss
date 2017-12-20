@@ -1,5 +1,6 @@
 .table {
     border-collapse: collapse;
+    min-width: $info-card_width;
     &__head-item {
         font-size: 12px;
         font-weight: 600;

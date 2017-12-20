@@ -7,7 +7,7 @@
     <div class="content content_wider">
         <section class="album-previews container-flex">
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <span class="album-preview__button"></span>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">
@@ -17,7 +17,7 @@
                 </a>
             </article>
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <span class="album-preview__button"></span>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">
@@ -27,7 +27,7 @@
                 </a>
             </article>
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <span class="album-preview__button"></span>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">
@@ -37,7 +37,7 @@
                 </a>
             </article>
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <span class="album-preview__button"></span>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">
@@ -47,7 +47,7 @@
                 </a>
             </article>
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <span class="album-preview__button"></span>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">
@@ -57,7 +57,7 @@
                 </a>
             </article>
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <span class="album-preview__button"></span>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">
@@ -67,7 +67,7 @@
                 </a>
             </article>
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <span class="album-preview__button"></span>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">
@@ -77,7 +77,7 @@
                 </a>
             </article>
             <article class="album-preview album-preview_index" style="background-image: url('/img/slider-1.jpg')">
-                <a href="" class="album-preview__info container-flex container-flex_col">
+                <a href="" class="album-preview__info container-flex container-flex_col modal-link gallery__link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                     <div class="album-preview__button"></div>
                     <h3 class="album-preview__heading">Небольшое название фотоальбома в две строки</h3>
                     <section class="album-preview__number">

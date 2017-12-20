@@ -140,7 +140,7 @@ $link-hover-color: $green;
         text-transform: none;
         margin-bottom: 300px;
     }
-    &__link {
+    &__container {
         width: $info-card-width;
         &:hover {
             h2,
@@ -151,10 +151,6 @@ $link-hover-color: $green;
                 text-decoration: underline;
             }
         }
-    }
-    &__container {
-        width: $info-card-width;
-        // padding-left: $grid-gutter;
     }
 }
 

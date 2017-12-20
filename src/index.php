@@ -122,4 +122,14 @@
         require $blocks['footer'];
     ?>
 </body>
+
+<div class="modal hidden container-flex" data-modal="gallery1">
+    <div class="modal__content photo-album__container">
+        <section class="photo-album owl-carousel owl-theme">
+
+        </section>
+        <section class="photo-album__nav container-flex container-flex_sb"></section>
+    </div>
+</div>
+
 </html>

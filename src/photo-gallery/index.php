@@ -22,7 +22,7 @@
                 <h3 class="heading section-heading">Вторник, 26 декабря</h3>
                 <section class="container-flex gallery">
                     <article class="gallery__item">
-                        <a href="" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
+                        <a href="" class="gallery__link gallery__container link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
@@ -37,7 +37,7 @@
                         </a>
                     </article>
                     <article class="gallery__item">
-                        <a href="photo-album" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/cska.png, /img/cska.png, /img/cska.png">
+                        <a href="photo-album" class="gallery__link gallery__container link-container modal-link" data-modal="gallery1" data-items="/img/cska.png, /img/cska.png, /img/cska.png">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
@@ -52,7 +52,7 @@
                         </a>
                     </article>
                     <article class="gallery__item">
-                        <a href="" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
+                        <a href="" class="gallery__link link-container modal-link gallery__container" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
@@ -67,7 +67,7 @@
                         </a>
                     </article>
                     <article class="gallery__item">
-                        <a href="" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
+                        <a href="" class="gallery__link link-container modal-link gallery__container" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
@@ -87,7 +87,7 @@
                 <h3 class="heading section-heading">Понедельник, 25 декабря</h3>
                 <section class="container-flex gallery">
                     <article class="gallery__item">
-                        <a href="" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
+                        <a href="" class="gallery__link link-container modal-link gallery__container" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
@@ -102,7 +102,7 @@
                         </a>
                     </article>
                     <article class="gallery__item">
-                        <a href="" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
+                        <a href="" class="gallery__link link-container modal-link gallery__container" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
@@ -117,7 +117,7 @@
                         </a>
                     </article>
                     <article class="gallery__item">
-                        <a href="" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
+                        <a href="" class="gallery__link link-container modal-link gallery__container" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
@@ -132,7 +132,7 @@
                         </a>
                     </article>
                     <article class="gallery__item">
-                        <a href="" class="gallery__link link-container modal-link" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
+                        <a href="" class="gallery__link link-container modal-link gallery__container" data-modal="gallery1" data-items="/img/slider-1.jpg, /img/slider-1.jpg, /img/slider-1.jpg">
                             <div class="album-preview album-preview_gallery" style="background-image: url('/img/slider-1.jpg')">
                                 <section href="" class="album-preview__info container-flex container-flex_col">
                                     <span class="album-preview__button"></span>
